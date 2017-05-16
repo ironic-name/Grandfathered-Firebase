@@ -1,0 +1,78 @@
+{
+  "users": {
+    "1": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "drikus@bitcube.co.za",
+      "username": "drikus",
+      "objectId": "abcde1234"
+    },
+    "2": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "hannes@bitcube.co.za",
+      "username": "hannes",
+      "objectId": "abcde1235"
+    },
+    "3": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "jay@bitcube.co.za",
+      "username": "jay",
+      "objectId": "abcde1236"
+    },
+    "4": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "matthew@bitcube.co.za",
+      "username": "matthew",
+      "objectId": "abcde1237"
+    },
+    "5": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "jaco@bitcube.co.za",
+      "username": "jaco",
+      "objectId": "abcde1238"
+    },
+    "6": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "ignatius@bitcube.co.za",
+      "username": "ignatius",
+      "objectId": "abcde1239"
+    },
+    "7": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "riaan@bitcube.co.za",
+      "username": "riaan",
+      "objectId": "abcde1240"
+    },
+    "8": {
+      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "email": "marius@bitcube.co.za",
+      "username": "marius",
+      "objectId": "abcde1241"
+    }
+  },
+  "migrated_users": [
+    {
+      "email": "drikus@bitcube.co.za"
+    },
+    {
+      "email": "hannes@bitcube.co.za"
+    },
+    {
+      "email": "jay@bitcube.co.za"
+    },
+    {
+      "email": "matthew@bitcube.co.za"
+    },
+    {
+      "email": "jaco@bitcube.co.za"
+    },
+    {
+      "email": "ignatius@bitcube.co.za"
+    },
+    {
+      "email": "riaan@bitcube.co.za"
+    },
+    {
+      "email": "marius@bitcube.co.za"
+    }
+  ]
+}

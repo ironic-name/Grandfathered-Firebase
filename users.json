@@ -1,0 +1,43 @@
+{
+    "results": [{
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "drikus@bitcube.co.za",
+        "username": "drikus",
+        "objectId": "abcde1234"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "hannes@bitcube.co.za",
+        "username": "hannes",
+        "objectId": "abcde1235"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "jay@bitcube.co.za",
+        "username": "jay",
+        "objectId": "abcde1236"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "matthew@bitcube.co.za",
+        "username": "matthew",
+        "objectId": "abcde1237"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "jaco@bitcube.co.za",
+        "username": "jaco",
+        "objectId": "abcde1238"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "ignatius@bitcube.co.za",
+        "username": "ignatius",
+        "objectId": "abcde1239"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "riaan@bitcube.co.za",
+        "username": "riaan",
+        "objectId": "abcde1240"
+    }, {
+        "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+        "email": "marius@bitcube.co.za",
+        "username": "marius",
+        "objectId": "abcde1241"
+    }]
+}
