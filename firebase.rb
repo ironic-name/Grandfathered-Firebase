@@ -62,6 +62,10 @@ module Firebase
 
           p 'Finished.'
 
+          base64Secret = Base64.encode64(secret) 
+
+          p "hash-key is: #{ base64Secret }"
+
           return true;
         end
       else

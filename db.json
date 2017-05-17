@@ -1,49 +1,49 @@
 {
   "users": {
     "1": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "drikus@bitcube.co.za",
       "username": "drikus",
       "objectId": "abcde1234"
     },
     "2": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "hannes@bitcube.co.za",
       "username": "hannes",
       "objectId": "abcde1235"
     },
     "3": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "jay@bitcube.co.za",
       "username": "jay",
       "objectId": "abcde1236"
     },
     "4": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "matthew@bitcube.co.za",
       "username": "matthew",
       "objectId": "abcde1237"
     },
     "5": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "jaco@bitcube.co.za",
       "username": "jaco",
       "objectId": "abcde1238"
     },
     "6": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "ignatius@bitcube.co.za",
       "username": "ignatius",
       "objectId": "abcde1239"
     },
     "7": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "riaan@bitcube.co.za",
       "username": "riaan",
       "objectId": "abcde1240"
     },
     "8": {
-      "bcryptPassword": "$2y$10$LLNdExg5Vcy03HtpkOCBWO4DwhcLmdsMMumk15g.7xC6Vm6IfurWe",
+      "bcryptPassword": "$2a$10$ez6c.sadqbSSOvv27VHImunK.d3HXkQk4rj9y1jnxSJwI2A/ziCYq",
       "email": "marius@bitcube.co.za",
       "username": "marius",
       "objectId": "abcde1241"
