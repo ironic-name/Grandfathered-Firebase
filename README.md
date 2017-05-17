@@ -55,19 +55,19 @@ Finally, the result is encoded as a base64 string, as per the Firebase CLI forma
 
 These are the steps to follow to migrate the users across
 
-###Step 1:
+**Step 1:**
 
 `cd containing_directory`
 
 > Navigate into the containing project directory.
 
-###Step 2:
+**Step 2:**
 
 `irb -r ./firebase.rb`
 
 > Open the ruby script that will generate the migration files.
 
-###Step 3:
+**Step 3:**
 
 `Firebase::FirebaseUserMigration::create_from_file_with_secret 'users.json','Secret'`
 
@@ -82,24 +82,24 @@ These are the steps to follow to migrate the users across
     => true 
 
 
-###Step 4:
+**Step 4:**
 
 `firebase login`
 
 > Login to Firebase CLI and run firebase init if not done
 
-###Step 5:
+**Step 5:**
 
 `firebase use grandfathered-98eff`
 
 > Select the project.
 
-###Step 6:
+**Step 6:**
  
 `firebase auth:import auth.json --hash-algo=HMAC_MD5 --hash-key=U2VjcmV0`
 
 > Import **auth.json** into Firebase, and specify the hashing algorithm used to encrypt the user's passwords. The hash-key is the base64 encoded string output in step 3.
 
-###Step 7: 
+**Step 7: **
 
 >Import **db.json** into the Firebase live database by navigating to the console and importing the .json file.
