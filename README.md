@@ -100,6 +100,6 @@ These are the steps to follow to migrate the users across
 
 > Import **auth.json** into Firebase, and specify the hashing algorithm used to encrypt the user's passwords. The hash-key is the base64 encoded string output in step 3.
 
-**Step 7: **
+**Step 7:**
 
 >Import **db.json** into the Firebase live database by navigating to the console and importing the .json file.
