@@ -8,7 +8,7 @@ The main file in this repo is the [firebase.rb](https://github.com/ironic-name/G
 
 ## Hypothesis
 
-TODO
+See the documentation on the[Grandfathered sample app](https://github.com/ironic-name/Grandfathered-Application).
 
 ## Key elements of the migration script
 
